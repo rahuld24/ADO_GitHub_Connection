@@ -3,7 +3,7 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 # For Testing Github connection with ADO Boards fixes AB#37
-
+#new testing
 trigger:
 - main
 
